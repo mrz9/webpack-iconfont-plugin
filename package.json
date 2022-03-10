@@ -1,5 +1,5 @@
 {
-  "name": "webpack-iconfont-plugin",
+  "name": "@mrz/webpack-iconfont-plugin",
   "version": "1.0.0",
   "description": "webpack iconfont 自动加载插件",
   "main": "index.js",
