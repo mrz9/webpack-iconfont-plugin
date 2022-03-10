@@ -7,7 +7,7 @@
   "author": "mrz",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mrz9/mrz-log.git"
+    "url": "https://github.com/mrz9/webpack-iconfont-plugin.git"
   },
   "license": "ISC",
   "peerDependencies": {},
